@@ -1,3 +1,4 @@
+
 //console.log("Hello from JavaScript");
 
 //data types;
